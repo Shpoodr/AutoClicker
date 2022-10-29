@@ -1,2 +1,3 @@
 # AutoClicker
-Customizable auto clicker
+
+This project that will create a customizable autoclicker.
