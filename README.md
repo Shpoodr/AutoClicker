@@ -1,0 +1,2 @@
+# AutoClicker
+Customizable auto clicker
